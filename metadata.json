@@ -1,0 +1,6 @@
+{
+  "name": "QueueLess — Real-Time Virtual Queue Platform",
+  "description": "Zero-friction virtual queuing, real-time waitlist synchronization, desk dispatch console, and live customer transit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
